@@ -18,3 +18,6 @@ STEPS:
 6)Predicting the test data and plotting the output.
 
 7)Predicting the future 30 days values and plotting the output.
+
+NOTE : Use Stock_price Prediction.ipynb file.
+       requirements.txt file is also available.
